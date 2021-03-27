@@ -1,10 +1,15 @@
+:root {
+  --main-color: rgba(7, 151, 164);
+}
+
+
 body {
   font-family: 'Montserrat', sans-serif;
   background-color: #eee;
 }
 
 .logo-021 {
-  color: rgba(7, 151, 164);
+  color: var(--main-color);
 }
 
 /* SIDEBAR */
@@ -34,14 +39,14 @@ body {
 }
 
 .current {
-  background-color: #f44336;
+  background-color: var(--main-color);
   border-radius: 7px;
   box-shadow: 1px 2px 4px #111;
   transition: all 0.4s;
 }
 
 .current:hover {
-  background-color: #f66436;
+  background-color: rgb(9, 180, 196);
   border-radius: 7px;
   box-shadow: 1px 2px 4px #111;
   transform: translateY(-1px);
@@ -61,7 +66,7 @@ body {
 .search-input:focus {
   background: transparent;
   box-shadow: none;
-  border-bottom: 2px solid #dc3545;
+  border-bottom: 2px solid #f44336;
   color: #eee;
 }
 
@@ -135,3 +140,4 @@ body {
 #progress-bar4 .progress-bar {
   width: 15%;
 }
+
