@@ -8,7 +8,7 @@
 ## 2. 사용기술
 - HTML
 - CSS
-- BOOTSTRAP
+- bootstrap
 
 ## 3. 학습후기
 웹개발 학습 1개월차
