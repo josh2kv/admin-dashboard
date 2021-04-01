@@ -11,11 +11,11 @@
 - bootstrap
 
 ## 3. 학습후기
-웹개발 학습 1개월차
+웹개발 학습 2개월차
 - 사용하기 쉬운 부트스트랩을 사용하여 웹페이지 구현에 큰 어려움은 없었으나 구현 난도에 비해 오래걸림
 - 빨리 서버와 정보를 주고 받는 법을 배워서 제대로된 작동하는 웹페이지를 완성하고 싶었음
 
 
 https://josh2kv.github.io/admin-dashboard/
 
-![image](https://user-images.githubusercontent.com/79514508/113300380-79857700-92c3-11eb-98a9-c486a7df8d14.png)
+![image](https://user-images.githubusercontent.com/79514508/113301605-d03f8080-92c4-11eb-8890-afee01c15edd.png)
