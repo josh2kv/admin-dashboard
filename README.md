@@ -18,4 +18,4 @@
 
 https://josh2kv.github.io/admin-dashboard/
 
-![image](https://user-images.githubusercontent.com/79514508/113093858-aab26880-922b-11eb-8371-9fd597cfdb39.png)
+![image](https://user-images.githubusercontent.com/79514508/113300380-79857700-92c3-11eb-98a9-c486a7df8d14.png)
